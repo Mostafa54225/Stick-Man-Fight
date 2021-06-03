@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gun
+  - Floor
+  - CanGrab
+  - Bullet
+  - Vandal
+  - barrel
+  - Shotgun
+  - playerPos
+  - enemyBullet
+  - Enemy
+  - FallDetector
+  - pickUpButton
+  - shootButton
+  - CanvasAndroid
+  - fixedJoystick
+  - jumpButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - afterHIPS
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: environment
+    uniqueID: 796688651
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: PlayerFirst
+    uniqueID: 1441202223
+    locked: 0
+  - name: GunSecond
+    uniqueID: 2122706717
+    locked: 0
